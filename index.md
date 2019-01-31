@@ -3,18 +3,6 @@
 <title>CS 105: Bryce Monaco</title>
 <body>
 
-<table border="0">
-  <tr>
-    <td><img src="https://avatars1.githubusercontent.com/u/11812350?s=460&v=4" width=256 height=256</td>
-    <td>
-      <h1>Bryce Monaco</h1>
-      <h3><i>Computer Science and Engineering Student</i></h3>
-      <h4><i>CS 105 - Section 1102 </i></h5>
-    </td>
-  </tr>
-</table>
-<hr>
-
 <h2>Advising Paperwork</h2>
 <p>This section is currently blank and will be added to later.</p>
 <hr>
