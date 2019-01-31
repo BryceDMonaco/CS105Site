@@ -9,8 +9,6 @@
   </tr>
 </table>
 
-
-
 <h2>Advising Paperwork</h2>
 <p>This section is currently blank and will be added to later.</p>
 
@@ -34,5 +32,9 @@
 
 <h2>Returned Assignments</h2>
 <p>This section is currently blank and will be added to later.</p>
+
+<hr>
+<p><i>The code for this page is HTML written by Bryce Monaco and utilizes Jekyll to automatically apply a theme to make it look better than plain HTML.</i></p>
+
 </body>
 </html>
