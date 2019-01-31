@@ -1,12 +1,11 @@
-<!DOCTYPE html>
 <html>
 <title>CS 105: Bryce Monaco</title>
 <body>
 
-<table>
+<table border="0">
   <tr>
     <td><img src="https://avatars1.githubusercontent.com/u/11812350?s=460&v=4"></td>
-    <td>Bryce Monaco</td>
+    <td><h1>Bryce Monaco</h1><h3><i>Computer Science and Engineering Student</i></h3><h3><i>CS 105 - 1102</i></h3></td>
   </tr>
 </table>
 
