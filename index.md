@@ -3,6 +3,15 @@
 <title>CS 105: Bryce Monaco</title>
 <body>
 
+<table>
+  <tr>
+    <td><img src="https://avatars1.githubusercontent.com/u/11812350?s=460&v=4"></td>
+    <td>Bryce Monaco</td>
+  </tr>
+</table>
+
+
+
 <h2>Advising Paperwork</h2>
 <p>This section is currently blank and will be added to later.</p>
 <hr>
