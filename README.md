@@ -10,8 +10,12 @@ To SSH into the server, only while connected to the university network:
 
 Enter your net ID password.
 
-To add changes made to UNR-hosted site, use the following commands:
+To add changes made to UNR-hosted site, copy/paste the following commands in the root directory:
 
-    cd public_html/
-    rm -r index.html
-    wget https://raw.githubusercontent.com/BryceDMonaco/CS105Site/master/index.html
+    rm public_html/*
+    wget https://github.com/BryceDMonaco/CS105Site/archive/master.zip
+    unzip master.zip
+    mv CS105Site-master/* public_html/
+    rm -r master.zip
+    rm -r CS105Site-master/
+
