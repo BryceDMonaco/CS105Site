@@ -1,5 +1,17 @@
-How'd you get here? This should be private.
+This repository contains the code for the website required for my CS105 class.
 
-Take a look at index.md, it's HTML, but stored in a markdown file. I use Jekyll to parse index.md and convert it into a nicely themed and formatted page.
+#
 
-[The website can be found here.](https://brycedmonaco.github.io/CS105Site/)
+The following is just to help me remember the steps:
+
+To SSH into the server, only while connected to the university network:
+
+    ssh -Y UNR\\bmonaco@compute0.cse.unr.edu
+
+Enter your net ID password.
+
+To add changes made to UNR-hosted site, use the following commands:
+
+    cd public_html/
+    rm -r index.html
+    wget https://raw.githubusercontent.com/BryceDMonaco/CS105Site/master/index.html
