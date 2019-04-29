@@ -1,5 +1,9 @@
 This repository contains the code for the website required for my CS105 class.
 
+The website can be found [here](https://www.cse.unr.edu/~bmonaco/), hosted by the Computer Science and Engineering department at the University of Nevada, Reno.
+
+If that link no longer works, which I suspect might be the case after the graduate, it can also be found [here](https://brycedmonaco.github.io/CS105Site/).
+
 #
 
 The following is just to help me remember the steps:
